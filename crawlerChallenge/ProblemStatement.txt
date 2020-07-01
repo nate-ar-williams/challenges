@@ -1,0 +1,10 @@
+The goal of this challenge is to implement a console application that displays the most common words used in a portion of a webpage.
+
+The code should return the most common words used and number of times used. Should be able to configure # words returned (default 10) and words to exclude from search.
+
+
+Source code should be zipped and build into an executable console application.
+
+Page to crawl: https://en.wikipedia.org/wiki/Microsoft
+
+Only words from the section "History" should be accounted for.
